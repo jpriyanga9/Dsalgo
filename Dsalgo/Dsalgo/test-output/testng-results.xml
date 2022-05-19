@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-04T16:05:56 EDT" name="Default suite" finished-at="2022-05-04T16:06:38 EDT" duration-ms="42238">
+    <groups>
+    </groups>
+    <test started-at="2022-05-04T16:05:56 EDT" name="Default test" finished-at="2022-05-04T16:06:38 EDT" duration-ms="42238">
+      <class name="Pages.Testing">
+        <test-method is-config="true" signature="open()[pri:0, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:05:53 EDT" name="open" finished-at="2022-05-04T16:05:56 EDT" duration-ms="3151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method signature="click_on_getStarted()[pri:0, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:05:56 EDT" name="click_on_getStarted" finished-at="2022-05-04T16:05:58 EDT" duration-ms="1891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_on_getStarted -->
+        <test-method signature="signInPageInvalid()[pri:1, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:05:58 EDT" name="signInPageInvalid" finished-at="2022-05-04T16:06:00 EDT" duration-ms="2292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPageInvalid -->
+        <test-method signature="signInPage()[pri:2, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:06:00 EDT" name="signInPage" finished-at="2022-05-04T16:06:02 EDT" duration-ms="2060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage -->
+        <test-method signature="Dropdown()[pri:3, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:06:02 EDT" name="Dropdown" finished-at="2022-05-04T16:06:18 EDT" duration-ms="15433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dropdown -->
+        <test-method signature="graphPage()[pri:4, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:06:18 EDT" name="graphPage" finished-at="2022-05-04T16:06:27 EDT" duration-ms="9079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- graphPage -->
+        <test-method signature="stackPage()[pri:5, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:06:27 EDT" name="stackPage" finished-at="2022-05-04T16:06:38 EDT" duration-ms="10975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stackPage -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Pages.Testing@6b98a075]" started-at="2022-05-04T16:06:38 EDT" name="endTest" finished-at="2022-05-04T16:06:38 EDT" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Pages.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
